@@ -1,6 +1,6 @@
-Welcome to My First Repo
-Learning Git is going well so far
+Welcome to My First Repo.
+Learning Git is going well so far.
 I added this line to the update_readme branch.
 It's cloudy outside today.
-Let's make a conflict
-Make a conflicht
+Let's make a conflict.
+Done.
